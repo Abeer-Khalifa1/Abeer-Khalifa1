@@ -1,10 +1,11 @@
 ## 👋 Hi, I’m Abeer Khalifa
 
-👨‍🎓 Mechatronics & Robotics Engineering Student – Alexandria University
-🤖 ROS & Embedded Systems Specialist
-🔗 Passionate about bridging hardware & software to build intelligent robotic systems
-💻 Proficient in C++ | Python | ROS 2 | micro-ROS | Embedded Development
-🦾 Projects in Robot Design and Implementaion | Autonomous Navigation | AI Integration
+👨‍🎓 Mechatronics & Robotics Engineering Student – Alexandria University <br>
+🤖 ROS & Embedded Systems Specialist <br>
+🔗 Passionate about bridging hardware & software to build intelligent robotic systems <br>
+💻 Proficient in C++ | Python | ROS 2 | micro-ROS | Embedded Development <br>
+🦾 Projects in Robotics | Autonomous Navigation | AI Integration <br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abeer-khalifa-173559248/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abeer.khaled.ahmed1@gmail.com) 
